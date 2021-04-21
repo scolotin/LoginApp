@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Login Test App</string>
+    <string name="txt_login">Login</string>
+    <string name="hint_username">Enter username</string>
+    <string name="hint_password">Enter password</string>
+    <string name="txt_logout">Logout</string>
+    <string name="txt_error_login">Empty login</string>
+    <string name="txt_error_password">Empty password</string>
+</resources>

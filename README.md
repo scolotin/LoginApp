@@ -1,3 +1,3 @@
-# Login Test App
+# LoginApp
 
 Simple login Android App
